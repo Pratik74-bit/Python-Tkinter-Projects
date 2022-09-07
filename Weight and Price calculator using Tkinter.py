@@ -1,4 +1,4 @@
-#sum calculator by pratik using Tkinter library in python
+#Weight and price calculator using Tkinter by pratik 
 
 from tkinter import *
 from turtle import bgcolor
